@@ -1,0 +1,46 @@
+body{
+    background-color: #7e9a9a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    max-width: 960px;
+    height: 100%;
+    margin: 0 auto;
+    font:#db9833;
+ }
+
+#quiz,
+#results {
+background-color:#f6d8ac;
+margin-left: 50px;
+margin-right: 50px;
+padding: 50px;
+
+ }
+
+
+
+ h1{
+     text-align: center;
+     font-size: 32px;
+
+ }
+
+ span{
+text-align: center;
+font-size: 28px;
+font-weight: 700;
+font: darkgrey;
+
+ }
+ 
+ .questions{
+     font-weight: 600;
+     margin-top: 20px;
+     font-size: 22px;
+ }
+
+ img{
+     margin-top: 20px;
+ }
+
+
